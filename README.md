@@ -1,46 +1,27 @@
-# Getting Started with Create React App
+<p align="center">
+<h1 align="center"> FATEC Profº Jessen Vidal, SJC - 3º Semestre DSM </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2> 📑 Listas de Exercicios - Técnica de programação II  </h2>
+  Repositório destinado ao desenvolvimento das listas da disciplina técnica de programação II, ministrada pelo Professor Gerson Penha.
 
-## Available Scripts
 
-In the project directory, you can run:
+<h2> 📑 Estrutura  </h2>
 
-### `npm start`
+ - Lista_01 : [Primeira lista](https://github.com/Nicolas734/atvi-atlantis-typescript); <br>
+ 
+ - Lista_02 : [Segunda lista](https://github.com/Nicolas734/atvii-atlantis-typescript); <br>
+ 
+ - Lista_03 : [Terceira lista](https://github.com/Nicolas734/atviii-atlantis-typescript); <br>
+ 
+ - Lista_04 : [Quarta lista](https://github.com/Nicolas734/ativ-atlantis-typescript); <br>
+ 
+ - Lista_05 : [Quinta lista](https://github.com/Nicolas734/atvv-atlantis-typescript); <br>
+ 
+ 
+ <div id='equipe'>
+<h2> 🎓 Equipe de Desenvolvimento </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+|Integrantes da Equipe|Linkedin|Github|
+|:---------|:-------:|:------:|
+|Nicolas Lima de Holanda Galindo|[Linkedin](https://www.linkedin.com/in/nicolas-lima-2a75a3220/)| [Github](https://github.com/Nicolas734)|
+|Rafael Peressoni Waltrick|[Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221/)| [Github](https://github.com/rafawaltrick)|
