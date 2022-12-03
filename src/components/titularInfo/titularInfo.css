@@ -1,0 +1,66 @@
+.menu-visualizartitular{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 4rem;
+    text-align: center;
+    color: black;
+    
+}
+
+
+.accordion-demo .accordion-custom i, .accordion-demo .accordion-custom span {
+    vertical-align: middle;
+}
+
+.accordion-demo .accordion-custom span {
+    margin: 0 .5rem;
+}
+
+.accordion-demo .p-accordion p {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.dados-pessoais{
+    width: 50%;
+    text-align: left !important;
+    margin-bottom: 0.8rem;
+}
+
+.numero{
+    margin-bottom: 0.8rem !important; 
+}
+
+.tabela{
+    margin-top: 1rem !important;
+}
+
+.p-datatable .p-column-header-content {
+    display:block;
+    align-items: center;
+}
+
+.p-datatable .p-datatable-thead > tr > th {    
+    text-align: center !important;
+    padding: 1rem 1rem;
+    border: 1px solid #dee2e6;
+    border-width: 0 0 1px 0;
+    font-weight: 700;
+    color: #051a30;
+    background: rgb(110, 52, 245);
+    transition: box-shadow 0.2s;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    text-align: center;
+    border: 1px solid #dee2e6;
+    border-width: 0 0 1px 0;
+    padding: 1rem 1rem;
+}
+
+
+.p-button.p-button-outlined {
+    background-color: transparent;
+    color: #dee2e6;
+    border: 1px solid;
+}

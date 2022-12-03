@@ -1,0 +1,84 @@
+.menu-editar-titular{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 4rem;
+    text-align: center;
+    color: black;
+    
+}
+
+
+.accordion-demo .accordion-custom i, .accordion-demo .accordion-custom span {
+    vertical-align: middle;
+}
+
+.accordion-demo .accordion-custom span {
+    margin: 0 .5rem;
+}
+
+.accordion-demo .p-accordion p {
+    line-height: 1.5;
+    margin: 0;
+}
+
+.dados-pessoais{
+    width: 50%;
+    text-align: left !important;
+    margin-bottom: 0.8rem;
+}
+
+
+.p-accordion .p-accordion-header:not(.p-disabled).p-highlight .p-accordion-header-link {
+    background: rgb(99, 102, 241);
+    border-color: rgb(180, 241, 241);
+    color: #343a40;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.p-accordion .p-accordion-header .p-accordion-header-link {
+    padding: 1.25rem;
+    border: 1px solid #000000;
+    color: #000000;
+    background: rgb(99, 102, 241);
+    font-weight: 700;
+    border-radius: 6px;
+    transition: box-shadow 0.2s;
+}
+
+.p-accordion .p-accordion-header:not(.p-highlight):not(.p-disabled):hover .p-accordion-header-link {
+    background:rgb(99, 102, 241);
+    border-color: #dee2e6;
+    color: #343a40;
+}
+
+.p-accordion .p-accordion-header:not(.p-disabled).p-highlight:hover .p-accordion-header-link {
+    border-color: #000000;
+    background: rgb(58, 211, 211);
+    color: #343a40;
+}
+
+.numero{
+    margin-bottom: 0.8rem !important; 
+}
+
+
+.btn-cadastro{
+    margin-top: 2rem;
+}
+
+.p-button {
+    color: black;
+    background: rgb(180, 241, 241);
+    border: 1px solid rgb(5, 5, 5);
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    border-radius: 6px;
+}
+
+.p-button:enabled:hover, .p-button:not(button):not(a):not(.p-disabled):hover {
+    background: rgb(72, 236, 236);
+    color: #ffffff;
+    border-color: rgb(0, 0, 0);
+}
